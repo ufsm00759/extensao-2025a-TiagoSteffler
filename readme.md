@@ -30,6 +30,14 @@ Com a criação das páginas das plantas completa, foram feitas as páginas de i
 
 Por último, com o site e as plaquinhas finalizadas, o grupo se fez presente em campo durante o evento "Viva o Câmpus" para promover o projeto realizado.  
 
+### Os três Q's
+##### O que entregamos?
+Consegui entregar um site operacional, que cumpriu com todos os objetivos iniciais (cadastro e visualização de informações de uma planta)
+##### O que aprendemos?
+Apredi bastante como sobre o desenvolvimento de páginas *web* utilizando Vue, além de realizar *parsing* de arquivos '.tsv' e metadados de arquivos (como a localização das fotos). Também aprendi sobre como abordar por diferentes ângulos problemas que apareram durante o desenvolvimento do projeto.
+##### Com quem interagimos?
+Interagimos com o público do "Viva o Câmpus" e com a gestão do JBSM. Nosso projeto, sozinho, ainda interagiu e interage com os visitantes diários do Jardim.  
+
 ### Resultados obtidos
 Com o site finalizado e funcionando corretamente em sintonia com as plaquinhas, recebemos um *feedback* positivo por parte dos visitantes e da direção do JBSM, superando as expectativas. Na apresentação final, foram feitos alguns apontamentos/sugestões de melhorias para permetir a escabilidade do projeto.  
 
