@@ -33,6 +33,8 @@ Por último, com o site e as plaquinhas finalizadas, o grupo se fez presente em 
 ### Resultados obtidos
 Com o site finalizado e funcionando corretamente em sintonia com as plaquinhas, recebemos um *feedback* positivo por parte dos visitantes e da direção do JBSM, superando as expectativas. Na apresentação final, foram feitos alguns apontamentos/sugestões de melhorias para permetir a escabilidade do projeto.  
 
+O site pode ser visualizado em: https://jbsm.inf.ufsm.br/acervo/
+
 
 ### Cronograma
 Etapa | Abril | Maio | Junho
